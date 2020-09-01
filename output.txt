@@ -1,0 +1,13 @@
+--------------output senza decoratore----------------
+luca
+alessio
+--------------output con aggiunta del decoratore sulle statistiche
+luca
+alessio
+Totale caratteri: 11
+b
+c
+a
+g
+b
+s
